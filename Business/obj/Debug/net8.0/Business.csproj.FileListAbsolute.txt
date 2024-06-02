@@ -1,0 +1,16 @@
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\bin\Debug\net8.0\Business.deps.json
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\bin\Debug\net8.0\Business.runtimeconfig.json
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\bin\Debug\net8.0\Business.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\bin\Debug\net8.0\Business.pdb
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\refint\Business.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.pdb
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.genruntimeconfig.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\ref\Business.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.Properties.DbResources.resources
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Business\obj\Debug\net8.0\Business.csproj.GenerateResource.cache

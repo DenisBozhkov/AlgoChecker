@@ -1,0 +1,11 @@
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\bin\Debug\net8.0\Service.deps.json
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\bin\Debug\net8.0\Service.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\bin\Debug\net8.0\Service.pdb
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\refint\Service.dll
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\Service.pdb
+D:\_ACER\Desktop\AlgoChecker - real\AlgoChecker\Service\obj\Debug\net8.0\ref\Service.dll
